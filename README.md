@@ -7,7 +7,7 @@
 * Provide the backend API to support authentication and authorization
 * (Optional): Add a function to create/update/delete reviews
 ## Notes  
-* Provid simple StyleSheet object.
+* Provide simple StyleSheet object.
 * Any time-consumming task (fetch...) need to have ActivitiIndicator
 * Do not upload any zip files into your repo.
 * Do not push any deps (node_modules).
