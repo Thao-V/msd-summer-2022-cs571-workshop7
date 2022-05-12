@@ -5,6 +5,7 @@
 * Signup.js: Which can be used to register a new user. Each user has 2 properties username and password. Username should be unique in the entire system. Password must be hashed when saving to database. After signing up successfully, the Login screen will be displayed
 * About.js: Should show the username and Text input to change the password if users want
 * Provide the backend API to support authentication and authorization
+* (Optional): Add a function to create/update/delete reviews
 ## Notes  
 * Provid simple StyleSheet object.
 * Any time-consumming task (fetch...) need to have ActivitiIndicator
