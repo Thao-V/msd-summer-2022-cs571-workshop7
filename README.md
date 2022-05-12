@@ -1,4 +1,4 @@
-# CS571 Workshop 06 - Continue
+# CS571 Workshop 07 - Continue
 ## MIU Courses Review App
 * Create the Auth part as followings:
 * Login.js: which can be used to login or navigate to Signup screen. After logging in successfully, the CourseList screen will be displayed
